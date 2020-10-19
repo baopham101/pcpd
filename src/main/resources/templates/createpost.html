@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
@@ -48,7 +49,7 @@
                         <div class="col-xl-8 col-lg-8 col-md-12 header-flex">
                             <!-- sticky -->
                             <div class="sticky-logo">
-                                <a href="index.html"><img width="180px" height="55px"
+                                <a href="index.html"><img width="180px" height="45px"
                                                           src="assets/img/logo/logomain.png" alt=""></a>
                             </div>
                             <!-- Main-menu -->
@@ -56,16 +57,15 @@
                                 <nav>
                                     <ul id="navigation">
                                         <li>
-                                            <a href="index.html"><img width="200px" height="50px"
-                                                                      src="assets/img/logo/logomain.png"
-                                                                      alt=""></a>
+                                            <a href="index.html"><img width="120px" height="30px"
+                                                                      src="assets/img/logo/logomain.png"></a>
                                         </li>
-<!--                                        <li><a href="about.html">Tổng quan</a></li>-->
+                                        <!--                                        <li><a href="about.html">Tổng quan</a></li>-->
                                         <li><a href="categori.html">Chuyên mục</a></li>
                                         <li><a href="latest_news.html">Tin mới nhất</a></li>
                                         <li><a href="#">Trang</a>
                                             <ul class="submenu">
-                                                <li><a href="createpost.html">Viết bài</a></li>
+                                                <li><a th:href="@{create}">Viết bài</a></li>
                                                 <li><a href="blog_details.html">Blog Details</a></li>
                                                 <li><a href="elements.html">Element</a></li>
                                             </ul>
