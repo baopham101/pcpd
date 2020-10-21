@@ -1,0 +1,27 @@
+{
+  "name": "tagify",
+  "version": "0.0.1",
+  "description": "bno",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "scripts": {
+    "build": "parcel build index.html",
+    "dev": "parcel index.html --open",
+    "start": "npm run build && npm run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@yaireo/tagify": "^3.20.0"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/th1590/pcpd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/th1590/pcpd/issues"
+  },
+  "homepage": "https://github.com/th1590/pcpd#readme"
+}

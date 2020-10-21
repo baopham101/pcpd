@@ -14,7 +14,7 @@ public class MyWebMvcConfig {
             public void addViewControllers(ViewControllerRegistry registry) {
                 registry.addViewController("/").setViewName(
                         "index");
-                registry.addViewController("/create").setViewName(
+                registry.addViewController("/createpost.html").setViewName(
                         "createpost");
                 registry.addViewController("/index.html").setViewName(
                         "index");

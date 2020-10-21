@@ -1,3 +1,13 @@
-.rednav{
-    background-color: darkred;
+.container-menu-desktop {
+    /*background-color: #ff655b;*/
+    /*height: 200px;*/
+    background-image: linear-gradient(to bottom right, #bc1000, #e99135, #f3e23e, #60f391);
+}
+@media (max-width: 575px) {
+    .container-menu-desktop {
+        background-image: none;
+    }
+    .wrap-header-mobile {
+        background-image: linear-gradient(to bottom right, #bc1000, #e99135, #f3e23e, #60f391);
+    }
 }

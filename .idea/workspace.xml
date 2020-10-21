@@ -826,6 +826,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -833,24 +835,61 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\baoph\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1iwLa6gNYqCv5KRud9iRzlkBIDi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Learning/Lab231/Hotel_Booking" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15429688" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Git project\Final Project\pcpd\src\main\resources\static\js" />
+      <recent name="F:\Git project\Final Project\pcpd\src\main\resources\static\css" />
+    </key>
+  </component>
+>>>>>>> Stashed changes
   <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PcpdApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="pcpd" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.codezoo.pcpd.PcpdApplication" />
@@ -862,6 +901,7 @@
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -876,11 +916,18 @@
       <workItem from="1603093598914" duration="1112000" />
       <workItem from="1603094722268" duration="6674000" />
       <workItem from="1603105819583" duration="3404000" />
+      <workItem from="1603111306550" duration="3318000" />
+      <workItem from="1603150720062" duration="4764000" />
+      <workItem from="1603159693153" duration="6000" />
+      <workItem from="1603159713211" duration="774000" />
+      <workItem from="1603162188581" duration="2709000" />
+      <workItem from="1603173021670" duration="14976000" />
+      <workItem from="1603237102104" duration="3683000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -894,8 +941,60 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+<<<<<<< Updated upstream
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update createpost.html page, tagify" />
     <option name="LAST_COMMIT_MESSAGE" value="update createpost.html page, tagify" />
+=======
+  <component name="WindowStateProjectService">
+    <state x="397" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1603158776602">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="397" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1603158776602" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603238172314">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603238172314" />
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom" timestamp="1603244224327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603244224327" />
+    <state width="1493" height="2" key="GridCell.Tab.0.center" timestamp="1603244224327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603244224327" />
+    <state width="1493" height="2" key="GridCell.Tab.0.left" timestamp="1603244224326">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603244224326" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right" timestamp="1603244224327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603244224327" />
+    <state width="1493" height="2" key="GridCell.Tab.1.bottom" timestamp="1603244224327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603244224327" />
+    <state width="1493" height="2" key="GridCell.Tab.1.center" timestamp="1603244224327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603244224327" />
+    <state width="1493" height="2" key="GridCell.Tab.1.left" timestamp="1603244224327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603244224327" />
+    <state width="1493" height="2" key="GridCell.Tab.1.right" timestamp="1603244224327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603244224327" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1603159477725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603159477725" />
+    <state x="360" y="73" key="new project wizard" timestamp="1603193439213">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="73" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1603193439213" />
+>>>>>>> Stashed changes
   </component>
 </project>
